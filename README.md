@@ -1,4 +1,4 @@
-### 🎓 Cybersecurity Graduate | 🛡️ Enthusiastic and Fast Learner | 🔐 Passionate about Protecting Digital Assets
+#### 🎓 Cybersecurity Graduate | 🛡️ Enthusiastic and Fast Learner | 🔐 Passionate about Protecting Digital Assets
 
 # Hi there, I'm Chinedu 👋
 
