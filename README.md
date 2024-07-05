@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi there, I'm Chinedu 👋
 
-<!--
-**KingNebechi/KingNebechi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<--Hello! I'm a recent graduate in Cybersecurity with a strong foundation in network security, ethical hacking, and digital forensics.
+
 
 Here are some ideas to get you started:
 
