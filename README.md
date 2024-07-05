@@ -13,4 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->🎓 Cybersecurity Graduate | 🛡️ Enthusiastic and Fast Learner | 🔐 Passionate about Protecting Digital Assets
+
+Hello! I'm a recent graduate in Cybersecurity with a strong foundation in network security, ethical hacking, and digital forensics. I thrive on the challenge of staying ahead of emerging threats and continuously enhancing my skills in this ever-evolving field.
+
+🔭 Currently exploring advanced penetration testing techniques.
+🌱 Learning and enhancing my vulnerability management skills.
+👯 Looking to collaborate on open-source security projects.
+💬 Ask me about cybersecurity best practices and threat mitigation.
+📫 Reach me at [your-email@example.com].
+⚡ Fun fact: I love solving complex puzzles and capture-the-flag challenges via TryHackMe!
