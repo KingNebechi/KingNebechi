@@ -16,7 +16,7 @@ I thrive on the challenge of staying ahead of emerging threats and continuously 
 
 - 👯 I’m looking to collaborate on **on open-source security projects**
 
-- 🤝 I’m looking for help with **Advance IoT Smart Farming Harding**
+- 🤝 I’m looking for help with **Advance IoT Smart Farming Security Harding**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KingNebechi](https://github.com/KingNebechi)
 
