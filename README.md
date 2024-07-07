@@ -2,9 +2,9 @@
 
 
 <h1 align="center">Hi there, I'm Chinedu   👋 </h1>
-<h3 align="center">🎓 Cybersecurity Graduate | 🛡️ Enthusiastic and Fast Learner | 🔐 Passionate about Protecting Digital Assets</h3>
-<h4 align="center"> I'm a recent graduate in Cybersecurity with a strong foundation in network security, ethical hacking, Vulnerability management and digital forensics.
-I thrive on the challenge of staying ahead of emerging threats and continuously enhancing my skills in this ever-evolving field.</h4>
+<h4 align="center">🎓 Cybersecurity Graduate | 🛡️ Enthusiastic and Fast Learner | 🔐 Passionate about Protecting Digital Assets</h4>
+<h6 align="center"> I'm a recent graduate in Cybersecurity with a strong foundation in network security, ethical hacking, Vulnerability management and digital forensics.
+I thrive on the challenge of staying ahead of emerging threats and continuously enhancing my skills in this ever-evolving field.</h6>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kingnebechi&label=Profile%20views&color=0e75b6&style=flat" alt="kingnebechi" /> </p>
 
