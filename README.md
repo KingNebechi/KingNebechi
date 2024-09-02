@@ -6,6 +6,17 @@
 <h6 align="center"> I'm a recent graduate in Cybersecurity with a strong foundation in network security, ethical hacking, Vulnerability management and digital forensics.
 I thrive on the challenge of staying ahead of emerging threats and continuously enhancing my skills in this ever-evolving field.</h6>
 
+<h2>👨‍💻 Projects:</h2>
+
+- <b>Azure-SIEM-Sentinel-and-SOC-Strategies-Enhancing-Security-Posture</b>
+  - [Azure-SIEM-Sentinel-and-SOC-Strategies-Enhancing-Security-Posture](https://github.com/KingNebechi/Azure-SIEM-Sentinel-and-SOC-Strategies-Enhancing-Security-Posture)
+- <b>Azure-Active-Directory</b>
+  - [Azure-Active-Directory](https://github.com/KingNebechi/Azure-Active-Directory)<b><i>(Set-up and configuration)</b></i>
+- <b>Blockchain-Based Electronic Voting System</b>
+ -[Chinedu-Blockchain-BEVS](https://github.com/KingNebechi/Chinedu-Blockchain-BEVS)
+
+---
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kingnebechi&label=Profile%20views&color=0e75b6&style=flat" alt="kingnebechi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kingnebechi" alt="kingnebechi" /></a> </p>
