@@ -10,7 +10,7 @@ I thrive on the challenge of staying ahead of emerging threats and continuously 
 
 - <b>Azure-SIEM-Sentinel-and-SOC-Strategies-Enhancing-Security-Posture</b> [Azure-SIEM-Sentinel-and-SOC-Strategies-Enhancing-Security-Posture](https://github.com/KingNebechi/Azure-SIEM-Sentinel-and-SOC-Strategies-Enhancing-Security-Posture)
 ---
-- <b>Azure-Active-Directory</b> [Azure-Active-Directory](https://github.com/KingNebechi/Azure-Active-Directory)<b><i>(Set-up and configuration)</b></i>
+- <b>Azure-Active-Directory</b> <b><i>(Set-up and configuration)</b></i> [Azure-Active-Directory](https://github.com/KingNebechi/Azure-Active-Directory)
 ---
 - <b>Blockchain-Based Electronic Voting System</b> [Chinedu-Blockchain-BEVS](https://github.com/KingNebechi/Chinedu-Blockchain-BEVS)
 
