@@ -8,7 +8,7 @@ I thrive on the challenge of staying ahead of emerging threats and continuously 
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Azure-SIEM-Sentinel-and-SOC-Strategies</b> [Azure-SIEM-Sentinel-and-SOC-Strategies-Enhancing-Security-Posture](https://github.com/KingNebechi/Azure-SIEM-Sentinel-and-SOC-Strategies-Enhancing-Security-Posture)
+- <b>Azure SIEM Sentinel and SOC Strategies</b> [Azure-SIEM-Sentinel-and-SOC-Strategies-Enhancing-Security-Posture](https://github.com/KingNebechi/Azure-SIEM-Sentinel-and-SOC-Strategies-Enhancing-Security-Posture)
 ---
 - <b>Azure-Active-Directory</b> <b><i>(Set-up and configuration)</b></i> [Azure-Active-Directory](https://github.com/KingNebechi/Azure-Active-Directory)
 ---
